@@ -1,0 +1,107 @@
+{
+    "_id": { "$oid": "633fc4d9c7b42d57b90fbe5a" },
+    "name": "Gaurang",
+    "email": "2020.gaurang.desai@gmail.com",
+    "intro": "My name is Gaurang",
+    "introImg": "https://res.cloudinary.com/dhpidogzh/image/upload/v1667762408/cld-sample-5.jpg",
+    "aboutMe": "I am a IT Student skilled with ReactJS, NextJS, NodeJS, ExpressJS, MongoDB",
+    "aboutMeImg": "https://res.cloudinary.com/dhpidogzh/image/upload/v1667762408/cld-sample-5.jpg",
+    "skills": [
+        {
+            "name": "React",
+            "img": "https://res.cloudinary.com/dhpidogzh/image/upload/v1667762408/cld-sample-5.jpg"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Portfolio Pro",
+            "type": "Website",
+            "desc": "description",
+            "appLink": "https://iplab-4-form.vercel.app/",
+            "github": "https://iplab-4-form.vercel.app/",
+            "img": "https://static.wixstatic.com/media/94a51f_a5a62567ca6b403ba0361deada2f7a76~mv2.jpg/v1/fill/w_586,h_361,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/94a51f_a5a62567ca6b403ba0361deada2f7a76~mv2.jpg",
+            "_id": { "$oid": "632ac913690438c2477a82d4" }
+        }
+    ],
+    "exp": [
+        {
+            "jobTitle": "WEB DEVELOPER INTERN",
+            "company": "Google",
+            "timePeriod": "Dec 2021 - Jan 2023",
+            "location": "Mumbai",
+            "desc": "description",
+            "_id": { "$oid": "632ac913690438c2477a82d8" }
+        },
+        {
+            "jobTitle": "WEB DEVELOPER INTERN",
+            "company": "Google",
+            "timePeriod": "Dec 2021 - Jan 2023",
+            "location": "Mumbai",
+            "desc": "description",
+            "_id": { "$oid": "632ac913690438c2477a82d9" }
+        },
+        {
+            "jobTitle": "WEB DEVELOPER INTERN",
+            "company": "Google",
+            "timePeriod": "Dec 2021 - Jan 2023",
+            "location": "Mumbai",
+            "desc": "description",
+            "_id": { "$oid": "632ac913690438c2477a82da" }
+        },
+        {
+            "jobTitle": "WEB DEVELOPER INTERN",
+            "company": "Google",
+            "timePeriod": "Dec 2021 - Jan 2023",
+            "location": "Mumbai",
+            "desc": "description",
+            "_id": { "$oid": "632ac913690438c2477a82db" }
+        },
+        {
+            "jobTitle": "WEB DEVELOPER INTERN",
+            "company": "Google",
+            "timePeriod": "Dec 2021 - Jan 2023",
+            "location": "Mumbai",
+            "desc": "description",
+            "_id": { "$oid": "632ac913690438c2477a82dc" }
+        },
+        {
+            "jobTitle": "WEB DEVELOPER INTERN",
+            "company": "Google",
+            "timePeriod": "Dec 2021 - Jan 2023",
+            "location": "Mumbai",
+            "desc": "description",
+            "_id": { "$oid": "632ac913690438c2477a82dd" }
+        }
+    ],
+    "ach": [
+        {
+            "name": "Code-O-Fiesta",
+            "position": "2nd",
+            "_id": { "$oid": "632ac913690438c2477a82de" }
+        },
+        {
+            "name": "Code-O-Fiesta",
+            "position": "2nd",
+            "_id": { "$oid": "632ac913690438c2477a82df" }
+        },
+        {
+            "name": "Code-O-Fiesta",
+            "position": "2nd",
+            "_id": { "$oid": "632ac913690438c2477a82e0" }
+        },
+        {
+            "name": "Code-O-Fiesta",
+            "position": "2nd",
+            "_id": { "$oid": "632ac913690438c2477a82e1" }
+        }
+    ],
+    "handles": [
+        {
+            "name": "Github",
+            "link": "https://iplab-4-form.vercel.app/",
+            "_id": { "$oid": "632ac913690438c2477a82e2" },
+            "img": "https://res.cloudinary.com/sarveshp46/image/upload/v1664520506/githubLogo_ebjezh.png"
+        }
+    ],
+    "__v": { "$numberInt": "0" }
+}
